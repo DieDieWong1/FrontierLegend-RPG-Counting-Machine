@@ -1,0 +1,91 @@
+{
+  "realm_name": "天堂與地獄",
+  "layers": {
+    "layer_1": {
+      "small_monsters": {
+        "天堂1c小怪1": {
+          "drops": {
+            "weapon_low": "160"
+          },
+          "position": "10666, 147, 10611",
+          "currency_cost": {
+            "refine_cost_material": 40,
+            "refine_cost_currency": {
+              "dream_coin": 22
+            }
+          }
+        },
+        "天堂1c小怪2": {
+          "drops": {
+            "equipment_low": "80"
+          },
+          "position": "10606, 147, 10574",
+          "currency_cost": {
+            "refine_cost_material": 40,
+            "refine_cost_currency": {
+              "dream_coin": 22
+            }
+          }
+        }
+      },
+      "elite_small_monsters": {
+        "天堂1c精英小怪1": {
+          "drops": {
+            "glove": "160",
+            "weapon_mid": "120"
+          },
+          "position": "10894, 149, 10528",
+          "currency_cost": {
+            "refine_cost_material": 40,
+            "refine_cost_currency": {
+              "dream_coin": 23
+            }
+          }
+        },
+        "天堂1c精英小怪2": {
+          "drops": {
+            "necklace": "160",
+            "equipment_mid": "80"
+          },
+          "position": "10745, 149, 10672",
+          "currency_cost": {
+            "refine_cost_material": 40,
+            "refine_cost_currency": {
+              "dream_coin": 23
+            }
+          }
+        }
+      },
+      "elite_monsters": {
+        "天堂1c精英怪": {
+          "drops": {
+            "badge": "160",
+            "equipment_high": "40"
+          },
+          "position": "10728, 151, 10554",
+          "currency_cost": {
+            "refine_cost_material": 40,
+            "refine_cost_currency": {
+              "dream_coin": 24
+            }
+          }
+        }
+      },
+      "boss": {
+        "天堂1cBoss1": {
+          "drops": {
+            "weapon_high": "80",
+            "gem": "160"
+          },
+          "position": "11002, 145, 10694",
+          "currency_cost": {
+            "refine_cost_material": 40,
+            "refine_cost_currency": {
+              "dream_coin": 24
+            }
+          }
+        }
+      }
+    }
+  }
+}

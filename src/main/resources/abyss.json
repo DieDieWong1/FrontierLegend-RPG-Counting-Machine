@@ -1,0 +1,632 @@
+{
+  "realm_name": "深淵",
+  "layers": {
+    "layer_1": {
+      "small_monsters": {
+        "淵1c小怪1": {
+          "drops": {
+            "weapon_low": "128"
+          },
+          "position": "-1828, 40, 160",
+          "currency_cost": {
+            "refine_cost_material": 32,
+            "refine_cost_currency": { 
+            "dream_coin": 15
+            }
+          }
+        },
+        "淵1c小怪2": {
+          "drops": {
+            "equipment_low": "64"
+          },
+          "position": "-1720, 30, 331",
+          "currency_cost": {
+            "refine_cost_material": 32,
+            "refine_cost_currency": { 
+            "dream_coin": 15
+            }
+          }
+        }
+      },
+      "elite_small_monsters": {
+        "淵1c精英小怪1": {
+          "drops": {
+            "glove": "128",
+            "weapon_mid": "96"
+          },
+          "position": "-1827, 47, 289",
+          "currency_cost": {
+            "refine_cost_material": 32,
+            "refine_cost_currency": { 
+            "dream_coin": 16
+            }
+          }
+        },
+        "淵1c精英小怪2": {
+          "drops": {
+            "necklace": "128",
+            "equipment_mid": "64"
+          },
+          "position": "-1714, 45, 216",
+          "currency_cost": {
+            "refine_cost_material": 32,
+            "refine_cost_currency": { 
+            "dream_coin": 16
+            }
+          }
+        }
+      },
+      "elite_monsters": {
+        "淵1c精英怪1": {
+          "drops": {
+            "badge": "96",
+            "equipment_high": "32"
+          },
+          "position": "-1768, 41, 306",
+          "currency_cost": {
+            "refine_cost_material": 32,
+            "refine_cost_currency": { 
+            "dream_coin": 17
+            }
+          }
+        }
+      },
+      "boss": {
+        "淵1cBoss1": {
+          "drops": {
+            "weapon_high": "64",
+            "gem": "96"
+          },
+          "position": "-1788, 40, 143",
+          "currency_cost": {
+            "refine_cost_material": 32,
+            "refine_cost_currency": { 
+            "dream_coin": 17
+            }
+          }
+        }
+      }
+    },
+    "layer_2": {
+      "small_monsters": {
+        "淵2c小怪1": {
+          "drops": {
+            "weapon_low": "128"
+          },
+          "position": "-1903, -2, -11",
+          "currency_cost": {
+            "refine_cost_material": 32,
+            "refine_cost_currency": { 
+            "dream_coin": 16
+            }
+          }
+        },
+        "淵2c小怪2": {
+          "drops": {
+            "equipment_low": "64"
+          },
+          "position": "-1928, 1, 22",
+          "currency_cost": {
+            "refine_cost_material": 32,
+            "refine_cost_currency": { 
+            "dream_coin": 16
+            }
+          }
+        }
+      },
+      "elite_small_monsters": {
+        "淵2c精英小怪1": {
+          "drops": {
+            "glove": "128",
+            "weapon_mid": "96"
+          },
+          "position": "-1872, 4, 34",
+          "currency_cost": {
+            "refine_cost_material": 32,
+            "refine_cost_currency": {
+            "dream_coin": 17
+            }
+          }
+        },
+        "淵2c精英小怪2": {
+          "drops": {
+            "necklace": "128",
+            "equipment_mid": "64"
+          },
+          "position": "-1872, 4, 34",
+          "currency_cost": {
+            "refine_cost_material": 32,
+            "refine_cost_currency": { 
+            "dream_coin": 17
+            }
+          }
+        }
+      },
+      "elite_monsters": {
+        "淵2c精英怪1": {
+          "drops": {
+            "badge": "96",
+            "equipment_high": "32"
+          },
+          "position": "-1929, 3, -20",
+          "currency_cost": {
+            "refine_cost_material": 32,
+            "refine_cost_currency": { 
+            "dream_coin": 18
+            }
+          }
+        }
+      },
+      "boss": {
+        "淵2cBoss1": {
+          "drops": {
+            "weapon_high": "64",
+            "gem": "96"
+          },
+          "position": "-1936, -8, -7",
+          "currency_cost": {
+            "refine_cost_material": 32,
+            "refine_cost_currency": { 
+            "dream_coin": 18
+            }
+          }
+        }
+      }
+    },
+    "layer_3": {
+      "small_monsters": {
+        "淵3c小怪1": {
+          "drops": {
+            "weapon_low": "128"
+          },
+          "position": "-1973, 4, 49",
+          "currency_cost": {
+            "refine_cost_material": 32,
+            "refine_cost_currency": {
+            "dream_coin": 17
+            }
+          }
+        },
+        "淵3c小怪2": {
+          "drops": {
+            "equipment_low": "64"
+          },
+          "position": "-1968, 17, 94",
+          "currency_cost": {
+            "refine_cost_material": 32,
+            "refine_cost_currency": { 
+            "dream_coin": 17
+            }
+          }
+        }
+      },
+      "elite_small_monsters": {
+        "淵3c精英小怪1": {
+          "drops": {
+            "glove": "128",
+            "weapon_mid": "96"
+          },
+          "position": "-1969, 4, 21",
+          "currency_cost": {
+            "refine_cost_material": 32,
+            "refine_cost_currency": { 
+            "dream_coin": 18
+            }
+          }
+        },
+        "淵3c精英小怪2": {
+          "drops": {
+            "necklace": "128",
+            "equipment_mid": "64"
+          },
+          "position": "-1969, 4, 21",
+          "currency_cost": {
+            "refine_cost_material": 32,
+            "refine_cost_currency": { 
+            "dream_coin": 18
+            }
+          }
+        }
+      },
+      "elite_monsters": {
+        "淵3c精英怪1": {
+          "drops": {
+            "badge": "96",
+            "equipment_high": "32"
+          },
+          "position": "-1949, 4, -3",
+          "currency_cost": {
+            "refine_cost_material": 32,
+            "refine_cost_currency": { 
+            "dream_coin": 19
+            }
+          }
+        }
+      },
+      "boss": {
+        "淵3cBoss1": {
+          "drops": {
+            "weapon_high": "64",
+            "gem": "96"
+          },
+          "position": "-1992, 4, 58",
+          "currency_cost": {
+            "refine_cost_material": 32,
+            "refine_cost_currency": { 
+            "dream_coin": 19
+            }
+          }
+        }
+      }
+    },
+    "layer_4": {
+      "small_monsters": {
+        "淵4c小怪1": {
+          "drops": {
+            "weapon_low": "128"
+          },
+          "position": "-1948, -7, 77",
+          "currency_cost": {
+            "refine_cost_material": 32,
+            "refine_cost_currency": { 
+            "dream_coin": 18
+            }
+          }
+        },
+        "淵4c小怪2": {
+          "drops": {
+            "equipment_low": "64"
+          },
+          "position": "-1968, -12, 71",
+          "currency_cost": {
+            "refine_cost_material": 32,
+            "refine_cost_currency": { 
+            "dream_coin": 18
+            }
+          }
+        }
+      },
+      "elite_small_monsters": {
+        "淵4c精英小怪1": {
+          "drops": {
+            "glove": "128",
+            "weapon_mid": "96"
+          },
+          "position": "-1968, -8, 77",
+          "currency_cost": {
+            "refine_cost_material": 32,
+            "refine_cost_currency": { 
+            "dream_coin": 19
+            }
+          }
+        },
+        "淵4c精英小怪2": {
+          "drops": {
+            "necklace": "128",
+            "equipment_mid": "64"
+          },
+          "position": "-1964, -5, 87",
+          "currency_cost": {
+            "refine_cost_material": 32,
+            "refine_cost_currency": { 
+            "dream_coin": 19
+            }
+          }
+        }
+      },
+      "elite_monsters": {
+        "淵4c精英怪1": {
+          "drops": {
+            "badge": "96",
+            "equipment_high": "32"
+          },
+          "position": "-2015, -23, 124",
+          "currency_cost": {
+            "refine_cost_material": 32,
+            "refine_cost_currency": { 
+            "dream_coin": 20
+            }
+          }
+        }
+      },
+      "boss": {
+        "淵4cBoss1": {
+          "drops": {
+            "weapon_high": "64",
+            "gem": "96"
+          },
+          "position": "-1993, -32, 19",
+          "currency_cost": {
+            "refine_cost_material": 32,
+            "refine_cost_currency": { 
+            "dream_coin": 20
+            }
+          }
+        }
+      }
+    },
+    "layer_5": {
+      "small_monsters": {
+        "淵5c小怪1": {
+          "drops": {
+            "weapon_low": "128"
+          },
+          "position": "-2180, -18, 123",
+          "currency_cost": {
+            "refine_cost_material": 32,
+            "refine_cost_currency": { 
+            "dream_coin": 19
+            }
+          }
+        },
+        "淵5c小怪2": {
+          "drops": {
+            "equipment_low": "64"
+          },
+          "position": "-2162, -20, 154",
+          "currency_cost": {
+            "refine_cost_material": 32,
+            "refine_cost_currency": { 
+            "dream_coin": 19
+            }
+          }
+        }
+      },
+      "elite_small_monsters": {
+        "淵5c精英小怪1": {
+          "drops": {
+            "glove": "128",
+            "weapon_mid": "96"
+          },
+          "position": "-2159, -31, 242",
+          "currency_cost": {
+            "refine_cost_material": 32,
+            "refine_cost_currency": { 
+            "dream_coin": 20
+            }
+          }
+        },
+        "淵5c精英小怪2": {
+          "drops": {
+            "necklace": "128",
+            "equipment_mid": "64"
+          },
+          "position": "-2136, -24, 289",
+          "currency_cost": {
+            "refine_cost_material": 32,
+            "refine_cost_currency": { 
+            "dream_coin": 20
+            }
+          }
+        }
+      },
+      "elite_monsters": {
+        "淵5c精英怪1": {
+          "drops": {
+            "badge": "96",
+            "equipment_high": "32"
+          },
+          "position": "-2088, -8, 339",
+          "currency_cost": {
+            "refine_cost_material": 32,
+            "refine_cost_currency": { 
+            "dream_coin": 21
+            }
+          }
+        }
+      },
+      "boss": {
+        "淵5cBoss1": {
+          "drops": {
+            "weapon_high": "64",
+            "gem": "96"
+          },
+          "position": "-2070, -24, 291",
+          "currency_cost": {
+            "refine_cost_material": 32,
+            "refine_cost_currency": { 
+            "dream_coin": 21
+            }
+          }
+        }
+      }
+    },
+    "layer_6": {
+      "small_monsters": {
+        "淵6c小怪1": {
+          "drops": {
+            "weapon_low": "128"
+          },
+          "position": "-2142, -26, 21",
+          "currency_cost": {
+            "refine_cost_material": 32,
+            "refine_cost_currency": { 
+            "dream_coin": 20
+            }
+          }
+        },
+        "淵6c小怪2": {
+          "drops": {
+            "equipment_low": "64"
+          },
+          "position": "-2137, -26, 56",
+          "currency_cost": {
+            "refine_cost_material": 32,
+            "refine_cost_currency": { 
+            "dream_coin": 20
+            }
+          }
+        }
+      },
+      "elite_small_monsters": {
+        "淵6c精英小怪1": {
+          "drops": {
+            "glove": "128",
+            "weapon_mid": "96"
+          },
+          "position": "-2141, -20, -6",
+          "currency_cost": {
+            "refine_cost_material": 32,
+            "refine_cost_currency": { 
+            "dream_coin": 21
+            }
+          }
+        },
+        "淵6c精英小怪2": {
+          "drops": {
+            "necklace": "128",
+            "equipment_mid": "64"
+          },
+          "position": "-2111, -20, -9",
+          "currency_cost": {
+            "refine_cost_material": 32,
+            "refine_cost_currency": { 
+            "dream_coin": 21
+            }
+          }
+        }
+      },
+      "elite_monsters": {
+        "淵6c精英怪1": {
+          "drops": {
+            "badge": "96",
+            "equipment_high": "32"
+          },
+          "position": "-2175, -16, 58",
+          "currency_cost": {
+            "refine_cost_material": 32,
+            "refine_cost_currency": { 
+            "dream_coin": 22
+            }
+          }
+        }
+      },
+      "boss": {
+        "淵6cBoss1": {
+          "drops": {
+            "weapon_high": "64",
+            "gem": "96"
+          },
+          "position": "-2081, -15, 80",
+          "currency_cost": {
+            "refine_cost_material": 32,
+            "refine_cost_currency": { 
+            "dream_coin": 22
+            }
+          }
+        }
+      }
+    },
+    "layer_7": {
+      "small_monsters": {
+        "淵7c小怪1": {
+          "drops": {
+            "weapon_low": "128"
+          },
+          "position": "-2286, -49, -22",
+          "currency_cost": {
+            "refine_cost_material": 32,
+            "refine_cost_currency": { 
+            "dream_coin": 21
+            }
+          }
+        },
+        "淵7c小怪2": {
+          "drops": {
+            "equipment_low": "64"
+          },
+          "position": "-2325, -49, 48",
+          "currency_cost": {
+            "refine_cost_material": 32,
+            "refine_cost_currency": { 
+            "dream_coin": 21
+            }
+          }
+        }
+      },
+      "elite_small_monsters": {
+        "淵7c精英小怪1": {
+          "drops": {
+            "glove": "128",
+            "weapon_mid": "96"
+          },
+          "position": "-2422, -49, -7",
+          "currency_cost": {
+            "refine_cost_material": 32,
+            "refine_cost_currency": { 
+            "dream_coin": 22
+            }
+          }
+        },
+        "淵7c精英小怪2": {
+          "drops": {
+            "necklace": "128",
+            "equipment_mid": "64"
+          },
+          "position": "-2390, -49, 37",
+          "currency_cost": {
+            "refine_cost_material": 32,
+            "refine_cost_currency": { 
+            "dream_coin": 22
+            }
+          }
+        }
+      },
+      "elite_monsters": {
+        "淵7c精英怪1": {
+          "drops": {
+            "badge": "96",
+            "equipment_high": "32"
+          },
+          "position": "-2409, -45, -50",
+          "currency_cost": {
+            "refine_cost_material": 32,
+            "refine_cost_currency": { 
+            "dream_coin": 23
+            }
+          }
+        }
+      },
+      "boss": {
+        "淵7cBoss1": {
+          "drops": {
+            "weapon_high": "64",
+            "gem": "96"
+          },
+          "position": "-2336, -51, -49",
+          "currency_cost": {
+            "refine_cost_material": 32,
+            "refine_cost_currency": { 
+            "dream_coin": 23
+            }
+          }
+        },
+        "淵世界Boss": {
+          "drops": {
+            "weapon_premium": "32N",
+            "equipment_premium": "8N"
+          },
+          "position": "-2383, -33, 6",
+          "currency_cost": {
+            "refine_cost_material": 50,
+            "refine_cost_currency": { 
+            "dream_coin": 50
+            }
+          }
+        },
+        "淵世界隱藏Boss": {
+          "drops": {
+            "weapon_extreme_plus": "64N"
+          },
+          "position": "7,5,2",
+          "currency_cost": {
+            "refine_cost_material": 50,
+            "refine_cost_currency": { 
+            "dream_coin": 50
+            }
+          }
+        }
+      }
+    }
+  }
+}

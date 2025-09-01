@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.geometry.Insets?>
+
+<BorderPane fx:controller="MaterialCount.CalculatorController" xmlns:fx="http://javafx.com/fxml">
+    <top>
+        <VBox style="-fx-background-color: #f0f0f0; -fx-padding: 10 10 10 10;">
+            <Label text="邊境傳說RPG·材料計算器" style="-fx-font-family: 'Arial'; -fx-font-weight: bold; -fx-font-size: 24px;"/>
+            <Separator prefWidth="800">
+                <VBox.margin>
+                    <Insets top="5" right="0" bottom="5" left="0"/>
+                </VBox.margin>
+            </Separator>
+        </VBox>
+    </top>
+
+    <center>
+        <GridPane hgap="10" vgap="20" style="-fx-padding: 20 20 20 20;">
+            <!-- 世界选择 -->
+            <Label text="選擇世界:" GridPane.columnIndex="0" GridPane.rowIndex="0"/>
+            <HBox GridPane.columnIndex="1" GridPane.rowIndex="0">
+                <ComboBox fx:id="realmComboBox" prefWidth="200"/>
+            </HBox>
+
+            <!-- 层级选择 -->
+            <Label text="選擇層級:" GridPane.columnIndex="0" GridPane.rowIndex="1"/>
+            <HBox GridPane.columnIndex="1" GridPane.rowIndex="1">
+                <ComboBox fx:id="layerComboBox" prefWidth="200"/>
+            </HBox>
+
+            <!-- 物品选择 -->
+            <Label text="選擇物品:" GridPane.columnIndex="0" GridPane.rowIndex="2"/>
+            <HBox GridPane.columnIndex="1" GridPane.rowIndex="2">
+                <ComboBox fx:id="itemTypeComboBox" prefWidth="200"/>
+            </HBox>
+
+            <!-- 等级选择 -->
+            <Label text="選擇等級:" GridPane.columnIndex="0" GridPane.rowIndex="3"/>
+            <HBox GridPane.columnIndex="1" GridPane.rowIndex="3">
+                <ComboBox fx:id="itemLevelComboBox" prefWidth="200"/>
+            </HBox>
+
+            <!-- 数量输入 -->
+            <Label text="製作數量:" GridPane.columnIndex="0" GridPane.rowIndex="4"/>
+            <HBox GridPane.columnIndex="1" GridPane.rowIndex="4">
+                <TextField fx:id="quantityField" prefWidth="100" promptText="輸入數量"/>
+                <Button fx:id="calculateButton" text="計算" onAction="#calculate" style="-fx-background-color: #4CAF50; -fx-text-fill: white;"/>
+            </HBox>
+
+            <!-- 结果显示区域 -->
+            <Label text="計算結果:" GridPane.columnIndex="0" GridPane.rowIndex="5" GridPane.columnSpan="2"/>
+            <TextArea fx:id="resultArea" editable="false" wrapText="true" prefHeight="200" GridPane.columnIndex="0" GridPane.rowIndex="6" GridPane.columnSpan="2"/>
+        </GridPane>
+    </center>
+
+    <bottom>
+        <HBox alignment="CENTER" style="-fx-background-color: #f0f0f0; -fx-padding: 10 10 10 10;">
+            <Label text="邊境傳說RPG·材料計算器 v1.0 by DieDieWong"/>
+        </HBox>
+    </bottom>
+</BorderPane>

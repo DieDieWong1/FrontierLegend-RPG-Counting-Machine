@@ -1,0 +1,639 @@
+{
+  "realm_name": "主世界",
+  "layers": {
+    "layer_1": {
+      "small_monsters": {
+        "主世界1c小怪1": {
+          "drops": {
+            "weapon_mid": "16"
+          },
+          "position": "107, 63, 202",
+          "currency_cost": {
+            "refine_cost_material": 16,
+            "refine_cost_currency": {
+              "copper": 32
+            }
+          }
+        },
+        "主世界1c小怪2": {
+          "drops": {
+            "equipment_mid": "8"
+          },
+          "position": "107, 63, 224",
+          "currency_cost": {
+            "refine_cost_material": 8,
+            "refine_cost_currency": {
+              "copper": 8
+            }
+          }
+        }
+      },
+      "elite_small_monsters": {
+        "主世界1c精英小怪1": {
+          "drops": {
+            "glove": "32N",
+            "weapon_high": "16"
+          },
+          "position": "136, 70, 248",
+          "currency_cost": {
+            "refine_cost_material": 16,
+            "refine_cost_currency": {
+              "copper": 48
+            }
+          }
+        },
+        "主世界1c精英小怪2": {
+          "drops": {
+            "necklace": "32N",
+            "equipment_high": "8"
+          },
+          "position": "144, 69, 241",
+          "currency_cost": {
+            "refine_cost_material": 8,
+            "refine_cost_currency": {
+              "copper": 16
+            }
+          }
+        }
+      },"elite_monsters": {
+        "主世界1c精英怪": {
+          "drops": {
+            "badge": "32N"
+          },
+          "position": "78, 63, 191",
+          "currency_cost": {
+            "refine_cost_material": 8,
+            "refine_cost_currency": {
+              "copper": 24
+            }
+          }
+        }
+      },
+      "boss": {
+        "主世界1cBoss1": {
+          "drops": {
+            "gem": "8N"
+          },
+          "position": "156, 69, 296",
+          "currency_cost": {
+            "refine_cost_material": 8,
+            "refine_cost_currency": {
+              "silver": 1
+            }
+          }
+        }
+      }
+    },
+    "layer_2": {
+      "small_monsters": {
+        "主世界2c小怪1": {
+          "drops": {
+            "glove": "48"
+          },
+          "position": "-158, 64, 252",
+          "currency_cost": {
+            "refine_cost_material": 24,
+            "refine_cost_currency": {
+              "silver": 1
+            }
+          }
+        },
+        "主世界2c小怪2": {
+          "drops": {
+            "necklace": "24"
+          },
+          "position": "-133, 66, 267",
+          "currency_cost": {
+            "refine_cost_material": 12,
+            "refine_cost_currency": {
+              "copper": 32
+            }
+          }
+        }
+      },
+      "elite_small_monsters": {
+        "主世界2c精英小怪1": {
+          "drops": {
+            "weapon_mid": "24"
+          },
+          "position": "-136, 67, 284",
+          "currency_cost": {
+            "refine_cost_material": 24,
+            "refine_cost_currency": {
+              "silver": 2
+            }
+          }
+        },
+        "主世界2c精英小怪2": {
+          "drops": {
+            "equipment_mid": "12"
+          },
+          "position": "-165, 64, 291",
+          "currency_cost": {
+            "refine_cost_material": 12,
+            "refine_cost_currency": {
+              "copper": 48
+            }
+          }
+        }
+      },
+      "elite_monsters": {
+        "主世界1c精英怪": {
+          "drops": {
+            "equipment_low": "8"
+          },
+          "position": "78, 63, 191",
+          "currency_cost": {
+            "refine_cost_material": 8,
+            "refine_cost_currency": {
+              "copper": 24
+            }
+          }
+        },
+        "主世界2c精英怪": {
+          "drops": {
+            "badge": "32N",
+            "equipment_high": "12"
+          },
+          "position": "-132, 53, 240",
+          "currency_cost": {
+            "refine_cost_material": 12,
+            "refine_cost_currency": {
+              "silver": 1
+            }
+          }
+        }
+      },
+      "boss": {
+        "主世界1cBoss1": {
+          "drops": {
+            "weapon_low": "8"
+          },
+          "position": "156, 69, 296",
+          "currency_cost": {
+            "refine_cost_material": 8,
+            "refine_cost_currency": {
+              "silver": 1
+            }
+          }
+        },
+        "主世界2cBoss2": {
+          "drops": {
+            "weapon_high": "12",
+            "gem": "12N"
+          },
+          "position": "232, 66, 250",
+          "currency_cost": {
+            "refine_cost_material": 12,
+            "refine_cost_currency": {
+              "silver": 3
+            }
+          }
+        }
+      }
+    },
+    "layer_3": {
+      "small_monsters": {
+        "主世界3c小怪1": {
+          "drops": {
+
+          },
+          "position": "-1, 192, -589",
+          "currency_cost": {
+            "refine_cost_material": 32,
+            "refine_cost_currency": {
+              "silver": 3
+            }
+          }
+        },
+        "主世界3c小怪2": {
+          "drops": {
+            "equipment_low": "16"
+          },
+          "position": "38, 176, -601",
+          "currency_cost": {
+            "refine_cost_material": 16,
+            "refine_cost_currency": {
+              "silver": 1
+            }
+          }
+        }
+      },
+      "elite_small_monsters": {
+        "主世界3c精英小怪1": {
+          "drops": {
+            "glove": "32",
+            "weapon_mid": "32"
+          },
+          "position": "-27, 161, -640",
+          "currency_cost": {
+            "refine_cost_material": 32,
+            "refine_cost_currency": {
+              "silver": 4
+            }
+          }
+        },
+        "主世界3c精英小怪2": {
+          "drops": {
+            "necklace": "32",
+            "equipment_mid": "16"
+          },
+          "position": "-14, 153, -650",
+          "currency_cost": {
+            "refine_cost_material": 16,
+            "refine_cost_currency": {
+              "silver": 2
+            }
+          }
+        }
+      },
+      "elite_monsters": {
+        "主世界3c精英怪": {
+          "drops": {
+            "badge": "32N",
+            "equipment_high": "16"
+          },
+          "position": "4, 147, -683",
+          "currency_cost": {
+            "refine_cost_material": 16,
+            "refine_cost_currency": {
+              "silver": 3
+            }
+          }
+        }
+      },
+      "boss": {
+        "新手村世界boss": {
+          "drops": {
+            "weapon_low": "8N"
+          },
+          "position": "61, 64, 309",
+          "currency_cost": {
+            "refine_cost_material": 1,
+            "refine_cost_currency": {
+              "gold": 1
+            }
+          }
+        },
+        "主世界3cBoss1": {
+          "drops": {
+            "weapon_high": "16",
+            "gem": "16N"
+          },
+          "position": "4, 146, -626",
+          "currency_cost": {
+            "refine_cost_material": 16,
+            "refine_cost_currency": {
+              "silver": 5
+            }
+          }
+        }
+      }
+    },
+    "layer_4": {
+      "small_monsters": {
+        "主世界4c小怪1": {
+          "drops": {
+            "weapon_low": "64"
+          },
+          "position": "26, 88, -781",
+          "currency_cost": {
+            "refine_cost_material": 32,
+            "refine_cost_currency": {
+              "silver": 4
+            }
+          }
+        },
+        "主世界4c小怪2": {
+          "drops": {
+            "equipment_low": "16"
+          },
+          "position": "31, 97, -817",
+          "currency_cost": {
+            "refine_cost_material": 16,
+            "refine_cost_currency": {
+              "silver": 2
+            }
+          }
+        }
+      },
+      "elite_small_monsters": {
+        "主世界4c精英小怪1": {
+          "drops": {
+            "glove": "32",
+            "weapon_mid": "32"
+          },
+          "position": "-13, 76, -761",
+          "currency_cost": {
+            "refine_cost_material": 32,
+            "refine_cost_currency": {
+              "silver": 5
+            }
+          }
+        },
+        "主世界4c精英小怪2": {
+          "drops": {
+            "necklace": "32",
+            "equipment_mid": "16"
+          },
+          "position": "-10, 97, -801",
+          "currency_cost": {
+            "refine_cost_material": 16,
+            "refine_cost_currency": {
+              "silver": 3
+            }
+          }
+        }
+      },
+      "elite_monsters": {
+        "主世界4c精英怪": {
+          "drops": {
+            "badge": "32N",
+            "equipment_high": "16"
+          },
+          "position": "11, 76, -756",
+          "currency_cost": {
+            "refine_cost_material": 16,
+            "refine_cost_currency": {
+              "silver": 4
+            }
+          }
+        }
+      },
+      "boss": {
+        "主世界4cBoss1": {
+          "drops": {
+            "weapon_high": "16",
+            "gem": "16N"
+          },
+          "position": "16, 96, -823",
+          "currency_cost": {
+            "refine_cost_material": 16,
+            "refine_cost_currency": {
+              "silver": 6
+            }
+          }
+        }
+      }
+    },
+    "layer_5": {
+      "small_monsters": {
+        "主世界5c小怪1": {
+          "drops": {
+            "weapon_low": "64"
+          },
+          "position": "55, 130, -1027",
+          "currency_cost": {
+            "refine_cost_material": 32,
+            "refine_cost_currency": {
+              "silver": 5
+            }
+          }
+        },
+        "主世界5c小怪2": {
+          "drops": {
+            "equipment_low": "16"
+          },
+          "position": "55, 92, -1063",
+          "currency_cost": {
+            "refine_cost_material": 16,
+            "refine_cost_currency": {
+              "silver": 3
+            }
+          }
+        }
+      },
+      "elite_small_monsters": {
+        "主世界5c精英小怪1": {
+          "drops": {
+            "glove": "32",
+            "weapon_mid": "32"
+          },
+          "position": "-38, 131, -1096",
+          "currency_cost": {
+            "refine_cost_material": 32,
+            "refine_cost_currency": {
+              "silver": 6
+            }
+          }
+        },
+        "主世界5c精英小怪2": {
+          "drops": {
+            "necklace": "32",
+            "equipment_mid": "16"
+          },
+          "position": "-93, 131, -1096",
+          "currency_cost": {
+            "refine_cost_material": 16,
+            "refine_cost_currency": {
+              "silver": 4
+            }
+          }
+        }
+      },
+      "elite_monsters": {
+        "主世界5c精英怪": {
+          "drops": {
+            "badge": "32",
+            "equipment_high": "16"
+          },
+          "position": "38, 89, -1073",
+          "16g": true,
+          "currency_cost": {
+            "refine_cost_material": 16,
+            "refine_cost_currency": {
+              "silver": 5
+            }
+          }
+        }
+      },
+      "boss": {
+        "主世界5cBoss1": {
+          "drops": {
+            "weapon_high": "16",
+            "gem": "16N"
+          },
+          "position": "-37, 89, -1087",
+          "currency_cost": {
+            "refine_cost_material": 16,
+            "refine_cost_currency": {
+              "silver": 7
+            }
+          }
+        }
+      }
+    },
+    "layer_6": {
+      "small_monsters": {
+        "主世界6c小怪1": {
+          "drops": {
+            "weapon_low": "64"
+          },
+          "position": "-16, 125, -1154",
+          "currency_cost": {
+            "refine_cost_material": 32,
+            "refine_cost_currency": {
+              "silver": 6
+            }
+          }
+        },
+        "主世界6c小怪2": {
+          "drops": {
+            "equipment_low": "16"
+          },
+          "position": "-16, 120, -1166",
+          "currency_cost": {
+            "refine_cost_material": 16,
+            "refine_cost_currency": {
+              "silver": 4
+            }
+          }
+        }
+      },
+      "elite_small_monsters": {
+        "主世界6c精英小怪1": {
+          "drops": {
+            "glove": "32",
+            "weapon_mid": "32"
+          },
+          "position": "40, 131, -1156",
+          "currency_cost": {
+            "refine_cost_material": 32,
+            "refine_cost_currency": {
+              "silver": 7
+            }
+          }
+        },
+        "主世界6c精英小怪2": {
+          "drops": {
+            "necklace": "32",
+            "equipment_mid": "16"
+          },
+          "position": "41, 154, -1148",
+          "currency_cost": {
+            "refine_cost_material": 16,
+            "refine_cost_currency": {
+              "silver": 5
+            }
+          }
+        }
+      },
+      "elite_monsters": {
+        "主世界6c精英怪": {
+          "drops": {
+            "badge": "32N",
+            "equipment_high": "16"
+          },
+          "position": "-8, 176, -1179",
+          "currency_cost": {
+            "refine_cost_material": 16,
+            "refine_cost_currency": {
+              "silver": 6
+            }
+          }
+        }
+      },
+      "boss": {
+        "主世界6cBoss1": {
+          "drops": {
+            "weapon_high": "16",
+            "gem": "16N"
+          },
+          "position": "3, 103, -1223",
+          "currency_cost": {
+            "refine_cost_material": 16,
+            "refine_cost_currency": {
+              "silver": 8
+            }
+          }
+        }
+      }
+    },
+    "layer_7": {
+      "small_monsters": {
+        "主世界7c小怪1": {
+          "drops": {
+            "weapon_low": "64"
+          },
+          "position": "48, 135, -1473",
+          "currency_cost": {
+            "refine_cost_material": 32,
+            "refine_cost_currency": {
+              "silver": 7
+            }
+          }
+        },
+        "主世界7c小怪2": {
+          "drops": {
+            "equipment_low": "16"
+          },
+          "position": "-40, 128, -1391",
+          "currency_cost": {
+            "refine_cost_material": 16,
+            "refine_cost_currency": {
+              "silver": 5
+            }
+          }
+        }
+      },
+      "elite_small_monsters": {
+        "主世界7c精英小怪1": {
+          "drops": {
+            "glove": "32",
+            "weapon_mid": "32"
+          },
+          "position": "57, 126, -1374",
+          "currency_cost": {
+            "refine_cost_material": 32,
+            "refine_cost_currency": {
+              "silver": 8
+            }
+          }
+        },
+        "主世界7c精英小怪2": {
+          "drops": {
+            "necklace": "32",
+            "equipment_mid": "16"
+          },
+          "position": "23, 127, -1430",
+          "currency_cost": {
+            "refine_cost_material": 16,
+            "refine_cost_currency": {
+              "silver": 6
+            }
+          }
+        }
+      },
+      "elite_monsters": {
+        "主世界7c精英怪": {
+          "drops": {
+            "badge": "32N",
+            "equipment_high": "16"
+          },
+          "position": "28, 134, -1450",
+          "currency_cost": {
+            "refine_cost_material": 16,
+            "refine_cost_currency": {
+              "silver": 7
+            }
+          }
+        }
+      },
+      "boss": {
+        "主世界7cBoss1": {
+          "drops": {
+            "weapon_high": "16",
+            "gem": "16N"
+          },
+          "position": "30, 82, -1490",
+          "currency_cost": {
+            "refine_cost_material": 16,
+            "refine_cost_currency": {
+              "silver": 9
+            }
+          }
+        }
+      }
+    }
+  }
+}
