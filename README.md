@@ -26,6 +26,9 @@
 
 點擊「計算」按鈕，即可顯示所需材料總量、精煉成本與怪物來源明细
 
+啟動方法:
+只需在 MaterialCount.zip\jlink-image\start.bat 按兩下就能啟動了
+
 🛠 技術特色：
 使用 Java + JavaFX 開發，具備圖形化界面
 
